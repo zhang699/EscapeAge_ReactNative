@@ -3,7 +3,7 @@
 
 # Demo
 
-![](http://i.giphy.com/5lmQXBsrq88Xm.gif)
+![](http://i.giphy.com/xTiN0JdMbKXk19ODoQ.gif)
 
 # How to use
 
