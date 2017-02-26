@@ -13,6 +13,26 @@
 - Open XCode and Run
 - Doesn't support Android currently
 
+# Opensource Used
+
+- [react-native-maps](https://github.com/airbnb/react-native-maps)
+- [react-native-menu](https://github.com/jaysoo/react-native-menu)
+- [react-native-modal-picker](https://github.com/d-a-n/react-native-modal-picker)
+- [react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
+- [react-native-share](https://github.com/EstebanFuentealba/react-native-share)
+- [react-native-sortable-listview](https://github.com/deanmcpherson/react-native-sortable-listview)
+- [react-native-star-rating](https://github.com/djchie/react-native-star-rating)
+- [react-redux](https://github.com/reactjs/react-redux)
+- [redux](https://github.com/reactjs/redux)
+- [redux-persist](https://github.com/rt2zz/redux-persist)
+- [react-native-calendar](https://github.com/christopherdro/react-native-calendar)
+- [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet)
+- [react-native-facebook-login](https://github.com/magus/react-native-facebook-login)
+- [react-native-google-signin](https://github.com/devfd/react-native-google-signin)
+- [lodash](https://lodash.com/)
+- [@remobile/react-native-toast](https://github.com/remobile/react-native-toast)
+
+
 # Todo
 - 有密室逃脫新遊戲的通知 (NewsList) 包括未讀訊息的實作
 - 支援 Android 
@@ -26,6 +46,9 @@
 - 揪團去並連結行事曆的實作
 - 更完善的error handling
 - 支援firebase 的註冊與登入
+
+# Thanks
+- [Jie-Chuen Li (author of escapeage android application)](https://www.linkedin.com/pub/jason-li/94/949/a43)
 
 # License
 - Code is MIT License.
