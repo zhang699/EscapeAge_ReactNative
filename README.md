@@ -13,7 +13,7 @@
 - Open XCode and Run
 - Doesn't support Android currently
 
-# Opensource Used
+# Used Opensource
 
 - [react-native-maps](https://github.com/airbnb/react-native-maps)
 - [react-native-menu](https://github.com/jaysoo/react-native-menu)
